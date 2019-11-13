@@ -1,6 +1,9 @@
 // Business (or back-end) logic:
 
 // import { Triangle } from './triangle-logic.js';
+import $ from 'jquery';
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles.css';
 
 

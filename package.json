@@ -1,7 +1,7 @@
 {
-  "name": "memory",
+  "name": "Triangles",
   "version": "1.0.0",
-  "description": "",
+  "description": "Triangle solver",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
@@ -22,5 +22,10 @@
     "webpack": "4.39.3",
     "webpack-cli": "^3.3.8",
     "webpack-dev-server": "^3.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
   }
 }
